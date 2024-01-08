@@ -15,3 +15,9 @@ Make sure `degit` is installed globally.
 ```sh
 npx degit danjvarela/nextjs-template <app-name>
 ```
+
+or
+
+```sh
+npx create-next-app@latest --example https://github.com/danjvarela/nextjs-template <app-name>
+```
