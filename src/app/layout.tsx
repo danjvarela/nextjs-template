@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'QR Code Generator',
-  description: 'A QR Code generator',
+  title: 'Next.js Template',
+  description: 'Next.js Template',
 }
 
 export default function RootLayout({
